@@ -34,7 +34,7 @@ institution:
 
   # Link and alt text for the logo of the course or your institution
   logo:
-    url: 'assets/img/your_logo_here.png'
+    url: 'assets/img/logo.png'
     alt_text: YOUR_LOGO_HERE
 
 
@@ -75,7 +75,7 @@ base:
   # Header phrase for the main navigation bar
   nav_header: 'Search Education'
 
-  # Link to your privacy policy and terms of service
+  # Link to privacy policy and terms of service
   privacy_terms_url: 'PRIVACY_POLICY_AND_TERMS_OF_SERVICE'
 
   # Locale for internationalization of explorer pages. See
