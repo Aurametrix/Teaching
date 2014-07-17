@@ -30,11 +30,11 @@ institution:
   name: 'Aurametrix'
 
   # URL of Aurametrix
-  url: 'http://aurametrix.com'
+  url: "http://aurametrix.com"
 
   # Link and alt text for the logo
   logo:
-    url: 'assets/img/logo.png'
+    url: "assets/img/logo.png"
     alt_text: Aurametrix
 
 
