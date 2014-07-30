@@ -2279,7 +2279,7 @@ class MultipleCoursesTestBase(actions.TestBase):
 
         self.modify_file(
             os.path.join(course.home, 'course.yaml'),
-            'title: \'Power Searching with Google\'',
+            'title: \'Analytics with Aurametrix\'',
             'title: \'%s\'' % course.title)
 
         self.modify_file(

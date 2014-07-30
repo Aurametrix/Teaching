@@ -32,7 +32,7 @@ institution:
   # URL of Aurametrix
   url: "http://aurametrix.com"
 
-  # Link and alt text for the logo
+  # Link and alt text for the logo 
   logo:
     url: "assets/img/logo.png"
     alt_text: Aurametrix
